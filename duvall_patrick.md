@@ -8,7 +8,7 @@
 1. [Ruby Docs](https://ruby-doc.org). I am currently in IRB going through, like a dictionary, and working on every command in different classes. It is unpleasant but my proficiency gains are rapid.
 1. [This Git by Dave Maurer](https://github.com/davemaurer/daily_exercises) I didn't even think to look to github for training tracks until Tim pointed me that way.
 
-##Resources I've found ineffective
+##Resources I've found ineffective ##
 1. [Zed Shaw's Learn Ruby the Hard way](https://learnrubythehardway.org/). I'm not sure why, but this series did not jive for me. I felt the progression of difficulty was erratic. I did appreciate the authors humor.
 1. [Why's Poignant Guide to Ruby](https://poignant.guide/). Maybe I'm not advanced enough or it moved too quickly. I felt the material was not what I needed.
 1. [Michael Hartls Rails Tutorial](https://www.railstutorial.org/). I felt I was doing a bunch of random things without necessarily having a solid understanding of ruby and systems to understand what was happening. Likely a solid resource I am not ready for.
