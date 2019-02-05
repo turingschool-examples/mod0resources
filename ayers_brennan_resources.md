@@ -1,0 +1,3 @@
+- [https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control](Official Git documentation)
+- [https://www.codecademy.com/learn/learn-git](Codecademy course on Git that covers the basics)
+- [https://medium.freecodecamp.org/](freeCodeCamp is good daily reading covering all different aspects of programming)
