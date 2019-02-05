@@ -1,0 +1,3 @@
+- Code Academy
+- Stack Overflow
+- Hartl's "Learn Enough"
