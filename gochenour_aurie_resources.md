@@ -1,0 +1,4 @@
+- [Stack Overflow](https://stackoverflow.com/), obviously.
+- [Learn You A Haskell For Great Good!](http://learnyouahaskell.com/) <- Still the best language.
+- [GeeksForGeeks](https://www.geeksforgeeks.org/), for all your conceptual needs.
+- [TutorialsPoint](https://www.tutorialspoint.com), good for C++ stuff.
