@@ -1,5 +1,3 @@
-![](![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
 # My Favorite Coding Resources So Far...
 1. [stackoverflow.com](https://stackoverflow.com/)
 1. [Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
