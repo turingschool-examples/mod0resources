@@ -1,4 +1,4 @@
-#My Favorite Online Resources so Far
+# My Favorite Online Resources
 
 ## Lessons & Practice
 
