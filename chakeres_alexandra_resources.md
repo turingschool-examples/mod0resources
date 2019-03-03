@@ -9,3 +9,4 @@ Create a list of some of your favorite resources so far related to coding/Turing
  - [Git Help](https://git-scm.com/)
  - [GitHub Help](https://help.github.com/)
  - [Markdown Formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
+ - [Debugging with Pry](http://backend.turing.io/module1/lessons/debugging_with_pry)
