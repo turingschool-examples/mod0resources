@@ -1,0 +1,1 @@
+I started coding a bit on my own using Udemy.com (there are courses for things other than coding too!). StackOverflow has been the primary source I've used so far and it't been hugely helpful. Also youtube is pretty handy for simple stuff as well as a visual way of learning something.
