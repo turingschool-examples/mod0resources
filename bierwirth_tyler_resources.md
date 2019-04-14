@@ -1,0 +1,3 @@
+-Stack Overflow
+-Notion (Agenda, To-Do and Notes software)
+-Google
