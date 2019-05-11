@@ -1,0 +1,4 @@
+One of my favorite resources so far have been Turing, for sure. I have learned so much and grown so much just in Mod 0. Some other resources that have been helpful are TypingClub (a free typing website), to help me learn how to type with all ten fingers; that's right, just a few months ago, I was an old lady, 2-4 fingers pecker on the keyboard. 
+typing.io on top of Typing Club, to help me learn how to type the weird characters in coding, and slowly get faster. 
+FreeCodeCamp really helped me understand git a lot more. It helped everything click into place. 
+StackOverflow was also another valuable resource in learning.
