@@ -1,0 +1,1 @@
+Resources that have helped me include YouTube, Codecademy, and Turing weekends.
