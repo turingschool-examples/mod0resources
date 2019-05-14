@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Emmet Practice</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+	<div id="logo_div"><img id="logo" src="sublime_logo.jpg" alt="logo"/></div>
+	<h1 id="main">Emmit Sublime Package</h1>
+
+	<p id="introduction">Emmet is a helpful Sublime Text package that makes writing html code more efficient. To begin type the element you would like to use. Divs do not need to be specified if they are at the beginning of the line. For instane to create a paragraph type <code>p + tab</code>. To add something after an element use the + sign. To add two paragraphs type <code>p + p</code>. To insert things into an element use <code>{}</code>. Here is how to do a paragraph with text, <code>p{text}</code>. Putting a <code>. or #</code> after an element allows you to add an id or class attribute. <code>p.hello</code> creates a paragraph with the class hello. To nest an element inside of another element use the <code>></code> charachter. <code>ol>li{item 1}*6</code>. The code previously inserts 6 list items into an ordered list. The 1 symbol tells emmet to insert the number of the item in the list. Using *, you can tell emmet to make x numbers of an element. Using emmet you can write out HTML with ease. Once you have written what you want emmet to create, hit tab to complete the code. You must also be at the end of the line for completion to work.</p>
+
+	<h2 class="item_header">Make a Header</h2>	
+	<p>
+		To make a header using emmet. Type <code>h1.item_header{Header} + tab</code>. This creates a h1 element with a class item_header, and the content "Header".
+	</p>
+
+	<h2 class="item_header">Create h1 & p Easily</h2>
+		<h3>Make Header + Element inside</h3>
+		<p>
+			All of this was done with Emmet. <code>h3{Stuff}+p{Stuff}+tab</code>. This code creates an h3 element with a p element nested inside of it. Each element has content inserted into it with the <code>{}</code> brackets.
+		</p>
+
+	<h2 class="item_header">Lists</h2>
+
+	<code>ul.list>li{Item $}*6 + tab</code>
+
+	<p>*To leave out bullets put in div*</p>
+
+
+	<ul>
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+		<li>Item 4</li>
+		<li>Item 5</li>
+		<li>Item 6</li>
+	</ul>
+
+	<code>ol>li{Item $}^6 + tab</code>
+
+	<ol>
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+		<li>Item 4</li>
+		<li>Item 5</li>
+		<li>Item 6</li>
+	</ol>
+
+	<h2 class="item_header">Let's Combine Everything!</h2>
+	<p>Let's create an h1, h2, p, and list, all at once. Below is the code to do so.</p>
+	<code>h1{Heading 1}+h2{Heading 2}+p{lorem+tab}+div>li{Item $}*6 +tab</code>
+
+
+	<h1>Heading 1</h1>
+	<h2>Heading 2</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, ratione. Commodi omnis quaerat sit fugit, consectetur quod, magni dolores consequatur fuga nihil, quia velit dignissimos numquam reiciendis quae, aut similique?</p>
+	<div>
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+		<li>Item 4</li>
+		<li>Item 5</li>
+		<li>Item 6</li>
+	</div>
+
+</body>
+</html>

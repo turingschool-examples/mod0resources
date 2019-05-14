@@ -1,0 +1,33 @@
+
+body{
+	text-align: center;
+	background-color: #ccc;
+}
+
+#logo_div{
+	width: 100%;
+	height: auto;
+}
+
+#logo{
+	width:200px;
+	height: 200px;
+}
+
+
+
+#main{
+	background-color: #353535;
+	color: #FD8507;
+	padding:10px 10px;
+	margin:0;
+	border-radius: 3px;
+}
+
+
+.item_header{
+	background-color: #353535;
+	color: #FD8507;
+	padding: 10px 10px;
+	border-radius: 3px;
+}
