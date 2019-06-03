@@ -1,2 +1,2 @@
 mod0.turing.io\
-https://github.com/DavidBarriga-Gomez/mod0resources.git
+[https://help.github.com/en/articles/creating-a-pull-request]
