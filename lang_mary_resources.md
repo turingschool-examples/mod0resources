@@ -7,4 +7,7 @@ stackoverflow.com
 repl.it
 apidock.com/ruby
 ruby-docs.org
-rubyguides.com 
+rubyguides.com
+docs.ruby-lang.org
+coderwall.com
+teamtreehouse.com
