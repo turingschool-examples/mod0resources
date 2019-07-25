@@ -1,5 +1,1 @@
-Git
-GitHub
-Turing
-Google
-Codeacademy.com
+Git/GitHub/Turing/Google/Codeacademy
