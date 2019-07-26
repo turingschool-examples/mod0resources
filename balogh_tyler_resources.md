@@ -1,5 +1,5 @@
 List of favorite resources
 
-using google to research
-using stackoverflow website"
-using shortcuts to increase workflow
+1. using google to research
+2. using stackoverflow website
+3. using shortcuts to increase workflow
