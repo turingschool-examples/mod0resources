@@ -24,11 +24,11 @@ https://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
 https://thehipperelement.com/post/72080847673/daily-ux-crash-course-3-of-31
 https://usabilityhour.com/improving-user-experience/ 
 
-git 
+* git 
 https://www.youtube.com/watch?v=HVsySz-h9r4
 https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
 
-others
+* others
 http://htmlandcssbook.com/
 http://www.javascriptbook.com/
 
