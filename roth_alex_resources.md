@@ -1,3 +1,1 @@
-Github Help
-Stackoverflow
-Mod 0 Session lesson plans have been amazing.
+[GitHub Help](https://help.github.com/en#dotcom), [Mod 0 Lesson Plans](http://mod0.turing.io/)
