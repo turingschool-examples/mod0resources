@@ -1,0 +1,1 @@
+My best resource is my wife, who graduated from Turing back in March of this year and is currently working at SendGrid. She has been extremely useful with helping me out, yet she does not give me the answers, she gives me ways to find them out.
