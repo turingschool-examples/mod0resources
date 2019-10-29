@@ -1,3 +1,4 @@
-Learn Ruby the Hard Way
-Use Vim like a Pro
-typing.io
+1. Learn Ruby the Hard Way
+1. man
+1. Trello.com
+1. typing.io
