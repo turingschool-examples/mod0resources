@@ -1,0 +1,16 @@
+## This is a list of some of your favorite resources so far related to coding/Turing/git/GitHub/etc.… ##
+- 1. CODECADEMY.com
+- 2. STACKOVERFLOW.com
+- 3. https://gist.github.com/kannankumar/4c613cac6d9db896062a16e1cc57d3e5
+- 4. https://lifehacker.com/why-a-github-gist-is-my-favorite-to-do-list-1493063613
+- 5. https://imgur.com/
+- 6. https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+- 7. https://www.slant.co/topics/7014/~fonts-to-use-in-a-terminal-emulator#7https://git-scm.com/docs/git-commit
+- 8. https://google-webfonts-helper.herokuapp.com/fonts/montserrat?subsets=latin
+- 9. https://stackoverflow.com/questions/16559416/html-css-styles-text-formatting-inside-div-container
+- 10. https://stackoverflow.com/questions/16840473/which-to-use-div-class-name-or-div-id-name
+- 11. https://www.youtube.com/watch?v=NpmTMxtmCvY
+- 12. https://www.youtube.com/watch?v=iRPPq9vYig4
+- 13. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code
+- 14. https://stackoverflow.com/questions/18357511/git-remove-committed-file-after-push
+- 15. https://fonts.google.com
