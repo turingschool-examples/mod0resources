@@ -1,0 +1,3 @@
+- Git Real is a favorite
+- Codeacademy Pro lessons are super helpful
+- Rubygarage has one of the better breakdowns of git flow
