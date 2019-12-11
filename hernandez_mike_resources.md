@@ -1,7 +1,5 @@
 # Resources
 
-We've been in Mod0 for 3 classes so far.  So far we have learned how to navigate the computer, the terminal, open a text editor, change things, create a local git repository, create a GitHub repository and link the two.
-
 It might seem obvious, but by far the most common site I've used during Mod0 is the Mod0 Curriculum which can be found [here](http://mod0.turing.io/).
 
 This came from the Mod0 Curriculum but I reference it often for writing in Markdown.  [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
