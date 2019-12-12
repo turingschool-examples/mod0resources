@@ -1,4 +1,4 @@
-## Favorite nerd sources!!!1one
+## MY FAVORATE NERD SOURCES!!!1one
 
   * [ruby-lang](https://www.ruby-lang.org/en/) as a master list with examples will never go out of style.
   * [codecademy](https://www.codecademy.com/) has been a great learning tool for ruby and other languages, with a comfortable learning pace. probably the tool i'm most grateful to have used over the last two years.
