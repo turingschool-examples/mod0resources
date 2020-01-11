@@ -1,4 +1,5 @@
-turing mod 0 curriculum
-codecademy
-stack overflow
-github
+http://mod0.turing.io/codecademy
+https://stackoverflow.com
+https://developer.mozilla.org/en-US/
+https://www.w3schools.com/
+https://www.codecademy.com/
