@@ -47,6 +47,8 @@ https://github.com/0nn0/terminal-mac-cheatsheet
 7. git log
 8. git push origin master
 
+### Pull Request
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
 
 ![alt text](https://frontend.turing.io/assets/images/lessons/git/github-diagrams.002.jpeg "Github Push/Pull")
 
