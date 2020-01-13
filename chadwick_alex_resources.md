@@ -1,0 +1,4 @@
+## Alex Chadwick favorite resources
+1. My absolute favorite resource, and the one I've used more than any other is [github markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) I often forget the simple markdown tools and using this resource lets me keep my markdowns organized and sleek.
+2. Next, I've come back to the [Turing Mod 0 curriculum](http://mod0.turing.io/) quite often. As I continue to learn in mod 0 I find reviewing the material to be essential to my ability to memorize commands and terminology. Session 3 I find especially helpful as it lists multiple git commands I still need to memorize.
+3. Finally, I like [the github help site](https://help.github.com/en) which was listed in this very practice. I hadn't seen this site previously, but a cursory glance leads me to believe it acts as the be all end all git and github resource, even listing commands and tips for atom use.
