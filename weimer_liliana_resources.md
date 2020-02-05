@@ -1,0 +1,4 @@
+- keybr.com: to practice typing since I never learned to type properly
+- codecademy: introductory courses are great
+- 2do: not really a resource, but has helped with time management
+- MDN: self-explanatory, I think
