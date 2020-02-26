@@ -12,6 +12,12 @@ techrepublic.com
 
 dev.to
 
+Jumpstartlab.com
+
+ruby-doc.org
+
+learnrubythehardway.org 
+
 https://ma.ttias.be/
 
 ### Git and Github
