@@ -1,3 +1,3 @@
-Ruby Docs
-Stack Overflow
-A mind for numbers - Barbara Oakley 
+- Ruby Docs
+- Stack Overflow
+- A mind for numbers - Barbara Oakley 
