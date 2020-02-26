@@ -1,3 +1,5 @@
-Treehouse
-just works
-Davids git article
+#Turing Resources#
+
+ - Treehouse
+ - just works
+ - Davids git article
