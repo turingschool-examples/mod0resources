@@ -1,4 +1,4 @@
-#Turing Resources#
+# Turing Resources #
 
  - Treehouse
  - just works
