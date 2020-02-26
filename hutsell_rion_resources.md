@@ -1,16 +1,16 @@
-https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html
-https://hackernoon.com/career-ready-d57682a92736
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines
-https://github.com/turingschool/ruby-exercises
-https://guides.github.com/activities/hello-world/
-https://github.com/eczarny/spectacle#keyboard-shortcuts
-https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts
-https://medium.com/@sarambsimon/learning-fluency-672988a7ae52
-https://www.git-scm.com/docs
-https://help.github.com/en/github/using-git
-https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
-https://www.codewars.com/?language=ruby
-https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby
-https://www.reddit.com/r/GetMotivated/
-https://www.reddit.com/r/learnprogramming/wiki/faq
-https://teachyourselfcs.com
++ [Google Search Tips](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
++ [Career Ready](https://hackernoon.com/career-ready-d57682a92736)
++ [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines)
++ [Turing Ruby Exercises](https://github.com/turingschool/ruby-exercises)
++ [GitHub Guides Hello World](https://guides.github.com/activities/hello-world/)
++ [Spectacle keyboard shortcuts](https://github.com/eczarny/spectacle#keyboard-shortcuts)
++ [Slack keyboard shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts)
++ [Learning Fluency](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52)
++ [Git documentation](https://www.git-scm.com/docs)
++ [GitHub help](https://help.github.com/en/github/using-git)
++ [atlassian git cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
++ [codewars](https://www.codewars.com/?language=ruby)
++ [codecademy Intro to Ruby](https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby)
++ [GetMotivated](https://www.reddit.com/r/GetMotivated/)
++ [learn programming](https://www.reddit.com/r/learnprogramming/wiki/faq)
++ [Teach Yourself CS](https://teachyourselfcs.com)
