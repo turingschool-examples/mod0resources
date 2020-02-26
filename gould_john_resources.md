@@ -1,5 +1,4 @@
 # Turing Resources #
 
+ - Ruby-docs
  - Treehouse
- - just works
- - Davids git article
