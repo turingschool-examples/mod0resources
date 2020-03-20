@@ -9,9 +9,9 @@
 
 
 2. __Websites__      
-  - [Kahn Acadamy]https://www.khanacademy.org/
-  - [Udemy]https://www.udemy.com/
-  - [Codecadamy]https://www.codecademy.com/
+  - [Kahn Acadamy](https://www.khanacademy.org/)
+  - [Udemy](https://www.udemy.com/)
+  - [Codecadamy](https://www.codecademy.com/)
 
 
 
