@@ -1,5 +1,5 @@
 # A Few of my Favorite Resources:
-
+---
 1. __Books__
   - Murach HTML5/CSS3 Anne Boehm
   - HTML & CSS Design and build websites Jon Duckett
