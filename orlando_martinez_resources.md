@@ -8,7 +8,6 @@ List of resources
 * Books such as, The future of feelings Kaitlin Ugolik Phillips and CSS, HTML and JavaScript by Jhon Ducket.
 
 
-
 List of Git and GitHub resources
 * GitHub https://marklodato.github.io/visual-git-guide/index-en.html
 * Git https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
