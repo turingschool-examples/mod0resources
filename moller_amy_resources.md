@@ -1,0 +1,1 @@
+Github's own features page, git-scm.com for learning about git log --oneline, Git Wikipedia page, and collaborating with other students / people I know who work in software have all been very helpful resources. 
