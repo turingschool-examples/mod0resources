@@ -15,7 +15,7 @@
 
 
 
-3. __Software & Apps__     
+3. __Software & Apps__      
   - Typist
   - Atom
   - Slack
