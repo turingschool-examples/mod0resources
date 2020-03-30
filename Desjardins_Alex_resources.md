@@ -1,6 +1,7 @@
-**My Favorite Resources**
+##My Favorite Resources
 
-*[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+####[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+This is da bomb
 
 *David Whitakers [Git & Github Guide](https://www.coursereport.com/blog/what-is-github)
 
