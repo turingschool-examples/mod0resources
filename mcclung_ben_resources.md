@@ -1,0 +1,1 @@
+I watched some freeCodeCamp videos on YouTube, and they're helpful for getting an introductory grasp on how things work together. They're also free, and the JavaScript one is fairly well done. The JavaScript and jQuery book is also really helpful, especially for vocabulary.
