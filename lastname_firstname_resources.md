@@ -1,4 +1,4 @@
-MDN
-"Learning PHP, MySQL & JavaScript" by Robin Nixon
-Learn IDE
-Codecademy
+* MDN website
+* "Learning PHP, MySQL & JavaScript" book by Robin Nixon
+* Learn IDE
+* Codecademy
