@@ -1,4 +1,4 @@
-ruby-doc.com
-stackexchange.com
-Ruby the Hard Way
-rubyguides.com
+1. ruby-doc.com
+2. stackexchange.com
+3. Ruby the Hard Way
+4. rubyguides.com
