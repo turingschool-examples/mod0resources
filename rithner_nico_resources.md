@@ -1,6 +1,6 @@
-#Nico's Favorite Resources (so far)
+# Nico's Favorite Resources (so far)
 
-###The following are some of my favorite resources so far:
+### The following are some of my favorite resources so far:
 * https://support.apple.com/en-gb/guide/terminal/apddfb31307-3e90-432f-8aa7-7cbc05db27f7/mac
 * https://www.codecademy.com/learn
 * http://rubylearning.com/
