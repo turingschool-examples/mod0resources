@@ -1,6 +1,6 @@
 # Mod 0 Resources
 
-This is a collection of Mod 0 participants' favorite resources. 
+This is a collection of Mod 0 participants' favorite resources.
 
 We're using this repository for two purposes:
 
@@ -9,4 +9,4 @@ We're using this repository for two purposes:
 
 ## Contributing
 
-Find the contribution instructions in your Mod 0 Session 4 practice tasks gist. 
+Find the contribution instructions in your Mod 0 Session 4 practice tasks gist.
