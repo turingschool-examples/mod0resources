@@ -9,4 +9,4 @@ We're using this repository for two purposes:
 
 ## Contributing
 
-Find the contribution instructions in your Mod 0 Session 4 practice tasks gist. 
+Find the contribution instructions in your Mod 0 Session 3 practice tasks gist. 
