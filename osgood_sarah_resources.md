@@ -18,13 +18,10 @@
 
 ### MDN page for Arrays
 
-    * This was part of one of our Capstone Days, but I found that reading through it and trying out different
-        arrays helped me understand more about what is happening.
+    * This was part of one of our Capstone Days, but I found that reading through it and trying out different arrays helped me understand more about what is happening.
         + https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
 
 ### Git Hub Tutioral
 
-    * I am not sure if I found this online or if it was somewhere in our homework or capstone, but I do know
-        that I bookmarked it. I like looking at it and comparing it to what we are learning in class. I think
-        it is why Session 3 was easier for me to grasp than the first two classes.
+    * I am not sure if I found this online or if it was somewhere in our homework or capstone, but I do know that I bookmarked it. I like looking at it and comparing it to what we are learning in class. I think it is why Session 3 was easier for me to grasp than the first two classes.
         + https://guides.github.com/activities/hello-world/
