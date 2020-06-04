@@ -6,7 +6,7 @@
 * W3Schools.Com
 
 ### JavaScript
-* Any Coding School Bootcamp
+* Any Coding School Bootcamp Prep(Galvanize has a good free prep)
 * CodeWars
 * NetNinja (Udemy and free on YouTube)
 
