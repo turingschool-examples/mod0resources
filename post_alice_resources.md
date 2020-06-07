@@ -1,0 +1,6 @@
+- Free Code Camp Radio [YouTube Channel](https://www.youtube.com/freecodecamp/live)
+- [HackerRank Code Practice](https://www.hackerrank.com/dashboard)
+- [HTTP Status Codes](https://httpstatuses.com/)
+- [Ruby Documentation](https://ruby-doc.org/)
+- [*Journey to Junior* Blog Post](https://medium.com/@abelgoodwin1988/memoirs-journey-to-junior-part-1-practical-information-b6afe59890a3)
+- MDN JavaScript Documentation
