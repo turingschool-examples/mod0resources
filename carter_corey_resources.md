@@ -1,0 +1,4 @@
+- https://education.github.com/git-cheat-sheet-education.pdf
+- [Brain Food](https://open.spotify.com/playlist/37i9dQZF1DWXLeA8Omikj7)
+- [White Noise](https://mynoise.net/NoiseMachines/whiteNoiseGenerator.php)
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
