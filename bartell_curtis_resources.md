@@ -15,9 +15,9 @@
 
 ### Ruby
 1. [Learn to Program by Chris Pine](https://www.amazon.com/Learn-Program-Second-Facets-Ruby/dp/1934356360)
-1. [Ruby-Doc.org](https://www.amazon.com/Learn-Program-Second-Facets-Ruby/dp/1934356360)
-1. [Ruby Homepage](https://www.amazon.com/Learn-Program-Second-Facets-Ruby/dp/1934356360)
+1. [Ruby-Doc.org](https://ruby-doc.com/)
+1. [Ruby Homepage](https://www.ruby-lang.org/en/)
 
 ### Python
-1. [Computer Science Circles](https://www.amazon.com/Learn-Program-Second-Facets-Ruby/dp/1934356360)
-2. [Impractical Python Projects: Playful Programming Activities to Make You Smarter by Lee Vaughan](https://www.amazon.com/Learn-Program-Second-Facets-Ruby/dp/1934356360)
+1. [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/)
+2. [Impractical Python Projects: Playful Programming Activities to Make You Smarter by Lee Vaughan](https://nostarch.com/impracticalpythonprojects)
