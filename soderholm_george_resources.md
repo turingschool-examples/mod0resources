@@ -1,13 +1,16 @@
-I've found many resources as I tirelessly search for understanding in things that I don't fully grasp. These are some that stand out.
+## MARKDOWN HELP ##
++ This is a great single sheet to help with helpful reminders about how to style a Markdown
 
-  1. DigitalOcean: *How To Code in Ruby* by Brian Hogan
+1. https://stationinthemetro.com/apps-and-scripts/markdown-cheat-sheet
 
+## RUBY HELP ##
++ This is a guide to help with coding RUBY
 
-    I found when I did the try coding weekend that this was a great resource for pretty basic but helpful instruction on many concepts.  I find myself coming back to Brian Hogan's explinations quite a lot.
+1. https://www.rubyguides.com/
+2. https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-ruby
+3. http://jeromedalbert.com/ruby-how-to-iterate-the-right-way/
 
-  1. *Learn Ruby The Hard Way* by Zeb Shaw
+## GITHUB ##
++ Help for GitHub questions
 
-
-    This is a resource we've been using a lot in our daily practice in the capstone, but I really like how he just lays it out and gives you things to practice.  I relish how he stresses writing things down and memorization.
-    We haven't "had" to do all his exercises, but I have been!
-    
+1. https://guides.github.com/
