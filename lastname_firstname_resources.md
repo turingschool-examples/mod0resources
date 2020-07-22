@@ -1,6 +1,5 @@
 # Resources:
 * MDN
 * w3schools
-* JavaScript&JQuery interactive
-* front-end web development
+* JavaScript & JQuery text
 * StackOverFlow
