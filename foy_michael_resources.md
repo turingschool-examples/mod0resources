@@ -1,12 +1,12 @@
 
-**CS Dojo**
-[YouTube video on classes and objects](https://www.youtube.com/watch?v=8yjkWGRlUmY)
-[YouTube video on classes and objects](https://www.youtube.com/watch?v=4dqlSk_RPmI)
-**Computer Science**
-[YouTube video on Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
-**Jesus Castello**
-[YouTube channel for learnrubythehardway.org](https://www.youtube.com/channel/UCUCRO4CMJQgoabub5SzJQug)
-**Software Developer Life: Career, Learning, Coding, Daily Life, Stories by David Xiang**
-[Book of stories from people working as dev's](https://www.amazon.com/dp/B07D5QNGVZ)
-**Mastery by George Leonard**
-[Book about the understanding and practicing the process of Mastery](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560)
+- **CS Dojo(YouTube Channel)**
+- [YouTube video on classes and objects, P1](https://www.youtube.com/watch?v=8yjkWGRlUmY)
+- [YouTube video on classes and objects, P2](https://www.youtube.com/watch?v=4dqlSk_RPmI)
+- **Computer Science(YouTube Channel)**
+- [YouTube video on Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
+- **Jesus Castello**
+- [YouTube channel for learnrubythehardway.org](https://www.youtube.com/channel/UCUCRO4CMJQgoabub5SzJQug)
+- **Software Developer Life: Career, Learning, Coding, Daily Life, Stories by David Xiang**
+- [Book of stories from people working as dev's](https://www.amazon.com/dp/B07D5QNGVZ)
+- **Mastery by George Leonard**
+- [Book about the understanding and practicing the process of Mastery](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560)
