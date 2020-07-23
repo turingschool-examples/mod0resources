@@ -1,3 +1,3 @@
 ***Udemy :*** https://www.youtube.com/user/udemy
-explainshell.com
+***Explain Shell :*** https://www.explainshell.com
 ***Traversy Media :*** https://www.youtube.com/TechGuyWeb
