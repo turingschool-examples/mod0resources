@@ -1,8 +1,10 @@
 #### On **GIT & GITHUB** Collaborative Workflows
 
+  * [GitHub Glossary](https://docs.github.com/en/github/getting-started-with-github/github-glossary), from GitHub Docs
+
   * [Focusing on a Team Workflow With Git](https://code.tutsplus.com/tutorials/focusing-on-a-team-workflow-with-git--cms-22514) By Ian Lollar (2014)
 
-  * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/), from GitHub guides
+  * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/), from GitHub Guides
 
   * [Git Basics - Viewing the Commit History](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History), via Git-SCM.com
 
@@ -40,7 +42,7 @@
 ##### Misc **BLOGS** & **ARTICLES**
 
  * [Ellen Cornelius's tech blog](https://www.ellencornelius.com/), By Turing alum/instructor, Ellen Cornelius
-  > I'm in the FE program, but reading her post on the *mutability of hashes* actually helped me in understanding and approaching my work on objects.
+  > I'm in the FE program, but reading her post on the *mutability of hashes* actually helped me in understanding and approaching my work on objects. Bonus: excellent cat content!
 
  * [Diana Lange's Portfolio](https://www.diana-lange.de/pages/portfolio/generative/nature_of_code/nature.html), By generative graphics artist Diana Lange
  > My pre-Turing background is in visual arts, so I was floored when I found this. I don't know quite how she does it *yet* but it's a spark of inspiration to know that her creative work is produced through programming and generative graphics - so cool! *Check out her 'Nature of Code' project!*
