@@ -1,0 +1,10 @@
+- Google
+- Youtube
+- Stackoverflow
+- Messaging Alice on Slack
+- MDN
+- Texting someone more senior than me
+- Codecademy 'cheat sheets'
+- HTML/CSS by Duckett
+- JavaScript/jQuery by Duckett
+- Messaging Alice on Slack again
