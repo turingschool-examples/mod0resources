@@ -1,7 +1,6 @@
 here is a list of some of the resources that Ive used so far during mod 0.
 
 -Google.com
--slack channel and help from other students.
 
 Sites:
 Github video:
