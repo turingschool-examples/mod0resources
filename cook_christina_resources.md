@@ -1,0 +1,4 @@
+- Code Academy
+- MarkdownGuide.org
+- Google
+- Mod-1 pre-work reading materials
