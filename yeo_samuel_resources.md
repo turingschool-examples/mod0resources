@@ -1,0 +1,4 @@
+- ruby-docs
+- stackoverflow
+- slack
+- youtube
