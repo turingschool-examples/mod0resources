@@ -1,0 +1,6 @@
+'Codecademy'
+'Stack Overflow'
+'GitHub'
+'Typing.io'
+'Turing Mod 0 Session Curriculum'
+'Google'
