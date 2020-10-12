@@ -1,4 +1,3 @@
-MDN
-stack overflow
-my dad
-youtube
+MDN,
+stack overflow,
+and Youtube.
