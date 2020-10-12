@@ -1,4 +1,4 @@
-#Helpful Resources
+# Helpful Resources
 
 * docs.github
 * google!
