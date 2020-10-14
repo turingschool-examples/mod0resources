@@ -1,0 +1,10 @@
+food = Chicken
+is_delicious = true
+
+food = Beef
+num2 = 5
+num7 = 20
+quotient = num7 / num2
+songs = ["ABCs", "Billie Jean", "Beat It", "Dont Stop Till You Get Enough"]
+songs.shift
+songs.size
