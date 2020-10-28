@@ -1,0 +1,5 @@
+- [Ruby Doc](https://ruby-doc.org/)
+- [Stack overflow](https://stackoverflow.com/)
+- [Git and GitHub](https://www.coursereport.com/blog/what-is-github)
+- [Commit Messages](https://chris.beams.io/posts/git-commit/)
+- [GitHub Workflow](https://medium.com/@swinkler/git-workflow-explained-a-step-by-step-guide-83c1c9247f03)
