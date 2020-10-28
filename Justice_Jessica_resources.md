@@ -1,5 +1,4 @@
 - https://github.com/freeCodeCamp/freeCodeCamp
 - https://learnpythonthehardway.org/book/appendixa.html
 - https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts
-- file:///Users/jessica/Downloads/JavaScriptandJQuery_InteractiveFront-EndWebDevelopment(PDFDrive).pdf
 - https://trello.com/b/T2uehaDi/turing-mod-0
