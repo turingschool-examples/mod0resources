@@ -1,0 +1,1 @@
+There are so many different resources that have helped me in my coding journey but the most crucial one for me has been rubydoc. When i am trying to maybe start a project the first place i always go is rubydoc, and i try to teach myself some things that i have not learned in class etc.
