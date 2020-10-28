@@ -1,0 +1,3 @@
+- https://ruby-doc.org
+- Stack Overflow
+- launchschool.com
