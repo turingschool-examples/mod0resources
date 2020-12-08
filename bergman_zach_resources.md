@@ -1,4 +1,4 @@
-#Favorite Resources
+## Favorite Resources
 
   - ruby-doc.org
   - Google
