@@ -1,0 +1,5 @@
+[Explain Like I'm Five](https://dev.to/t/explainlikeimfive)
+[Markdown Syntax Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[Codeacademy](https://www.codecademy.com/learn)
+[Anki Flashcards](https://apps.ankiweb.net/)
+[Learning How to Learn Coursera Course](https://www.coursera.org/learn/learning-how-to-learn)
