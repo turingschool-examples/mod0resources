@@ -1,4 +1,4 @@
-##Favorite Resources
+## Favorite Resources
  1. typing.io this is really helping with familiarizing myself with the code keyboard
  2. Youtube has been great help since i'm more of a visual learner.
  3. Google of course since it's an amazing search engine for other websites.
