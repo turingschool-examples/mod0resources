@@ -3,3 +3,4 @@
 [Codeacademy](https://www.codecademy.com/learn)
 [Anki Flashcards](https://apps.ankiweb.net/)
 [Learning How to Learn Coursera Course](https://www.coursera.org/learn/learning-how-to-learn)
+[GitHub "Hello World" Guide](https://guides.github.com/activities/hello-world/)
