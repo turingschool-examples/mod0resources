@@ -1,0 +1,1 @@
+My favorite programming resources so far during my Turing adventure have been the ruby practice questions and the ruby guides website because they gives me a structured way to learn and increase my ruby proficiency.
