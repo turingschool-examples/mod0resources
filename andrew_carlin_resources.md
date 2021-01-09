@@ -5,5 +5,7 @@ Udemy
 GitHub Learning Lab
 Git Real
 w3schools
+Medium
+Mozilla Developer Network (MDN)
 youtube
 google
