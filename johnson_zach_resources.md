@@ -1,0 +1,3 @@
+- https://www.freecodecamp.org/ (html/CSS and JavaScript tutorials were great)
+- https://github.com/benthayer/git-gud ("Git Gud": Python-based game for helping understand the git workflow)
+- https://www.udemy.com/share/103LLWAEcadFdbRnUB/ (HTML Crash Course class on Udemy)
