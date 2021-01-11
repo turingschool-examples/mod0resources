@@ -1,1 +1,1 @@
-###*Favorite Resources*
+### *Favorite Resources*
