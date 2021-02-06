@@ -1,2 +1,4 @@
-holding space till I compile the list
-Copying and pasting in from chrome
+https://rubyonrails.org/
+Stack Overflow
+Git Hub help
+suggestions from teachers in the work
