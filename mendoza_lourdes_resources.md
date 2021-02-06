@@ -1,2 +1,2 @@
 <Several different YouTube Channels>
-<Different blogs>
+<Different blogs that detail step by step instructions>
