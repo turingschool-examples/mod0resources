@@ -1,0 +1,1 @@
+My favorite resources have included the articles and videos suggested in our readings and practice lessons. David's on Git/GitHub was both interesting and helpful to understand the flow.  Also, Google!  
