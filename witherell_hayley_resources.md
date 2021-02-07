@@ -1,0 +1,5 @@
+- https://git-scm.com/videos
+- https://www.w3schools.com/
+- https://docs.github.com/en
+- https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+- Discord
