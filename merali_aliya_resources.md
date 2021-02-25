@@ -1,4 +1,4 @@
-##Coding Resources
+## Coding Resources
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [How to write a Git commit message](https://chris.beams.io/posts/git-commit/)
