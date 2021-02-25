@@ -1,0 +1,5 @@
+- Harvard's free cs50 course has been a great resource. Even watching the lectures on YouTube is a great source of information.
+- Searching for tutorials on YouTube has been a great way to visualize how to perform certain tasks.
+- Josh Thompson posted some great links in **Slack** (which has been a great resource in and of itself).
+- https://josh.works/turing-backend-prep-01-intro
+- https://github.com/turingschool/ruby-exercises
