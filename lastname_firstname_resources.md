@@ -1,0 +1,1 @@
+youtube videos by far. even when i'm not following along well with the video, it feels like i'll be okay. then the "things to note" in the sessions. i dont think i'm developer literate enough yet to take advantage of stackoverflow.
