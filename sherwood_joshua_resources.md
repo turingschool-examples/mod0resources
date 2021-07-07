@@ -1,0 +1,2 @@
+- Udemy.com has a lot of video courses on coding. I found this particular course to be helpful: https://www.udemy.com/learn-to-code-with-ruby-lang/
+- The help section on GitHub was very helpful when troubleshooting what was wrong with a coding problem. It was very useful when I had to research Markdown. Website: https://help.github.com
