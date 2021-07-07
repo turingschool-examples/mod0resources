@@ -1,0 +1,2 @@
+**Flatiron School's Learn.co**
+I applied to both Turing and the Flatiron School (rivals!). While I ultimately ended up choosing Turing, I found Flatiron's [bootcamp prep](https://learn.co/tracks/bootcamp-prep) course to be quite helpful. It went over similar material to Turing's Try Coding Weekend, such as arrays and looping, but in a different format and a fun approach. Most of my coding knowledge before beginning Mod 0 came from that course and the Turing Try Coding Weekend. 
