@@ -1,0 +1,4 @@
+- Mod0 Session Exercises are great practice
+- Google is by far the best resource.
+- I have yet to notice any common resources from searching but I'm sure I will find some!
+- The IRB environment is great for trial and error learning, my kind of style.
