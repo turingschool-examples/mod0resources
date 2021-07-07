@@ -1,0 +1,1 @@
+So far using google and the 20 search tips has come in really handy. Ive also started to watch a few beginner series videos on Youtube. The majority of videos have been on javascript and html just to see it being used.
